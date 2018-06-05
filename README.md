@@ -1,1 +1,1 @@
-Recipes Application including main crud actions using Express and PostgreSQL
+Recipes Application including main crud actions using ExpressJS and PostgreSQL
